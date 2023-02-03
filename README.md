@@ -1,4 +1,4 @@
-[![MasterHead](https://media1.giphy.com/media/8qpz12HY0GXHaKPxTn/giphy.gif)](https://rishavchanda.io)
+(https://rishavchanda.io)
 <h1 align="center">Azure Services</h1>
 <h3 align="center">Lua & Python</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
