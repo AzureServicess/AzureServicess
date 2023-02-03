@@ -1,5 +1,4 @@
-[![MasterHead](https://raw.github.com/NLua/NLua/master/extras/screenshot/NLuaCommand.gif)]
-(https://rishavchanda.io)
+[![MasterHead](https://raw.github.com/NLua/NLua/master/extras/screenshot/NLuaCommand.gif)
 <h1 align="center">Azure Services</h1>
 <h3 align="center">Lua & Python</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
