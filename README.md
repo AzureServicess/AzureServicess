@@ -1,4 +1,4 @@
-[![MasterHead](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png)]
+[![MasterHead](https://raw.github.com/NLua/NLua/master/extras/screenshot/NLuaCommand.gif)]
 (https://rishavchanda.io)
 <h1 align="center">Azure Services</h1>
 <h3 align="center">Lua & Python</h3>
