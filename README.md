@@ -1,5 +1,4 @@
-[![MasterHead](https://miro.medium.com/max/1400/0*Rw3rs6Cdj5FEfAQf.gif)]
-(https://rishavchanda.io)
+[![MasterHead](https://miro.medium.com/max/1400/0*Rw3rs6Cdj5FEfAQf.gif)
 <h1 align="center">Azure Services</h1>
 <h3 align="center">Lua & Python</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
