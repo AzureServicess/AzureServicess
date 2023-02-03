@@ -16,9 +16,9 @@
 
 - ⚡ Fun fact **I Like Python And Lua Coding - I Mod Grand Theft Auto V**
 
-<h3 align="left">Youtube</h3>
+<h3 align="left">Socials</h3>
 <p align="left">
-<a href="https://www.youtube.com/@Azure_Services" target="blank"><img align="center" src="https://seeklogo.com/images/D/discord-icon-new-2021-logo-09772BF096-seeklogo.com.png" alt="rishavchanda" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@Azure_Services" target="blank"><img align="center" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" alt="rishavchanda" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@Azure_Services" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rishav chanda" height="30" width="40" /></a>
 </p>
 
