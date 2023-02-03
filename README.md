@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Nothing**
 
-- 📫 How to reach me **[(https://discord.gg/z5Zq6Y9TSK)]**
+- 📫 How to reach me **https://discord.gg/z5Zq6Y9TSK**
 
 - ⚡ Fun fact **I Like Python And Lua Coding - I Mod Grand Theft Auto V**
 
