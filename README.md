@@ -18,7 +18,7 @@
 
 <h3 align="left">Youtube</h3>
 <p align="left">
-<a href="https://www.youtube.com/@Azure_Services" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg)" alt="rishavchanda" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@Azure_Services" target="blank"><img align="center" src="https://seeklogo.com/images/D/discord-icon-new-2021-logo-09772BF096-seeklogo.com.png" alt="rishavchanda" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@Azure_Services" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rishav chanda" height="30" width="40" /></a>
 </p>
 
