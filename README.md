@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
 
-<p align="left"> <a href="https://www.youtube.com/@Azure_Services" target="blank"><img src="https://www.youtube.com/@Azure_Services" alt="Youtube" /></a> </p>
+<p align="left"> <a href="https://www.youtube.com/@Azure_Services" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Youtube" /></a> </p>
 
 - 🔭 I’m currently working on **Slayers Unleashed Script**
 
