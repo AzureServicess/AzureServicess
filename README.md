@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
 
-- 🔭 I’m currently working on **Slayers Unleashed Script**
+- 🔭 I’m currently working on **Hacking An Unknown Project**
 
 - 🌱 I’m currently learning **Lua & Python**
 
